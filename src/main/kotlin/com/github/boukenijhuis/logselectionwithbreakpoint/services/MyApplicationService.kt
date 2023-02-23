@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.boukenijhuis.logselectionwithbreakpoint.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.boukenijhuis.logselectionwithbreakpoint.MyBundle
 
 class MyApplicationService {
 
